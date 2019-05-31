@@ -1,1 +1,1 @@
-[Config](https://github.com/Egordidenko/config/wiki/Home)
+# [Config](https://github.com/Egordidenko/config/wiki/Home)
